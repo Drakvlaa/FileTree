@@ -9,7 +9,6 @@
 - **Recursive Scanning:** Scans the given directory and all its subdirectories.
 - **File Listing:** Outputs a list of files with subdirectories
 - **Efficiency:** Lightweight and efficient, ideal for large directory structures.
-- **Cross-Platform:** Works on Linux, macOS, and Windows (via Cygwin or MinGW).
 
 ## Requirements
 
