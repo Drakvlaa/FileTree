@@ -32,12 +32,6 @@ filetree <Path>
 * You can also use the following options
     * `-h` or `--help` to display help instructions.
     * `-v` or `--version` to display version information.
-### Using CMake
-CMake is a cross-platform build system that can be used to generate native makefiles or build projects in different environments.
-1. Create `build` directory:
-```bash
-mkdir build
-```
 ## Example
 ```bash
 filetree /home/user/weave
